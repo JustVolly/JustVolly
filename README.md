@@ -6,10 +6,10 @@
 
 <br>
 
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge\&logo=unrealengine\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge\&logo=blender\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -61,15 +61,17 @@ The goal is to make it possible to understand the project quickly from the resul
 * Technical challenges
 * Iteration and final result
 
-<!--
-Later:
-Add a wide Steple Chase gameplay GIF or screenshot here.
+#### Gameplay Screenshots
 
-Example:
 <p align="center">
-  <img src="./assets/steple-chase.gif" width="900">
+  <img src="./assets/steple-chase-1.jpg" width="49%">
+  <img src="./assets/steple-chase-2.jpg" width="49%">
 </p>
--->
+
+<p align="center">
+  <img src="./assets/steple-chase-3.jpg" width="49%">
+  <img src="./assets/steple-chase-4.jpg" width="49%">
+</p>
 
 ---
 
