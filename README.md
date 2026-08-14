@@ -1,8 +1,4 @@
-<img width="7680" height="4320" alt="Screenshot_7680x4320_2026-08-14_10-43-41" src="https://github.com/user-attachments/assets/f82adbcb-47b5-46fd-b48c-0d5a8974156b" />
-<div align="center"><img width="7680" height="4320" alt="Screenshot_7680x4320_2026-08-14_10-48-21" src="https://github.com/user-attachments/assets/37213dc3-b0fd-499b-b5ef-8f18477a5a27" />
-<img width="7680" height="4320" alt="Screenshot_7680x4320_2026-08-14_10-47-51" src="https://github.com/user-attachments/assets/f74c0ebf-2ea2-47fd-a6e8-38917408417b" />
-<img width="7680" height="4320" alt="Screenshot_7680x4320_2026-08-14_10-46-16" src="https://github.com/user-attachments/assets/9d8c7c50-cdb6-4fcd-a586-b5a00757b381" />
-
+<div align="center">
 
 # VÜSAL ALİYEV
 
@@ -64,6 +60,18 @@ The goal is to make it possible to understand the project quickly from the resul
 * Selected implementation details
 * Technical challenges
 * Iteration and final result
+
+#### Gameplay Screenshots
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/f82adbcb-47b5-46fd-b48c-0d5a8974156b"><img src="https://github.com/user-attachments/assets/f82adbcb-47b5-46fd-b48c-0d5a8974156b" width="49%" alt="Steple Chase gameplay screenshot 1"></a>
+  <a href="https://github.com/user-attachments/assets/37213dc3-b0fd-499b-b5ef-8f18477a5a27"><img src="https://github.com/user-attachments/assets/37213dc3-b0fd-499b-b5ef-8f18477a5a27" width="49%" alt="Steple Chase gameplay screenshot 2"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/f74c0ebf-2ea2-47fd-a6e8-38917408417b"><img src="https://github.com/user-attachments/assets/f74c0ebf-2ea2-47fd-a6e8-38917408417b" width="49%" alt="Steple Chase gameplay screenshot 3"></a>
+  <a href="https://github.com/user-attachments/assets/9d8c7c50-cdb6-4fcd-a586-b5a00757b381"><img src="https://github.com/user-attachments/assets/9d8c7c50-cdb6-4fcd-a586-b5a00757b381" width="49%" alt="Steple Chase gameplay screenshot 4"></a>
+</p>
 
 ---
 
