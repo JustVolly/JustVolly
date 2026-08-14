@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="120" viewBox="0 0 680 120" role="img" aria-label="Vüsal Aliyev — I like building games and want to leave my mark on the world through the things I create.">
+  <style>
+    .name {
+      font-family: Georgia, 'Times New Roman', serif;
+      font-size: 40px;
+      font-weight: 700;
+      letter-spacing: 2.5px;
+      fill: #1f2328;
+    }
+    .tagline {
+      font-family: Georgia, 'Times New Roman', serif;
+      font-size: 17px;
+      font-style: italic;
+      fill: #59636e;
+    }
+    @media (prefers-color-scheme: dark) {
+      .name { fill: #f0f6fc; }
+      .tagline { fill: #9198a1; }
+    }
+  </style>
+  <text x="340" y="43" text-anchor="middle" class="name">VÜSAL ALİYEV</text>
+  <text x="340" y="79" text-anchor="middle" class="tagline">I like building games and want to leave my mark on the world</text>
+  <text x="340" y="103" text-anchor="middle" class="tagline">through the things I create.</text>
+</svg>
