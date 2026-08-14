@@ -1,4 +1,8 @@
-<div align="center">
+<img width="7680" height="4320" alt="Screenshot_7680x4320_2026-08-14_10-43-41" src="https://github.com/user-attachments/assets/f82adbcb-47b5-46fd-b48c-0d5a8974156b" />
+<div align="center"><img width="7680" height="4320" alt="Screenshot_7680x4320_2026-08-14_10-48-21" src="https://github.com/user-attachments/assets/37213dc3-b0fd-499b-b5ef-8f18477a5a27" />
+<img width="7680" height="4320" alt="Screenshot_7680x4320_2026-08-14_10-47-51" src="https://github.com/user-attachments/assets/f74c0ebf-2ea2-47fd-a6e8-38917408417b" />
+<img width="7680" height="4320" alt="Screenshot_7680x4320_2026-08-14_10-46-16" src="https://github.com/user-attachments/assets/9d8c7c50-cdb6-4fcd-a586-b5a00757b381" />
+
 
 # VÜSAL ALİYEV
 
