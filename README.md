@@ -4,7 +4,7 @@
 
 ### VÜSAL ALİYEV
 
-### I like building games and want to leave my mark on the world through the things I create.
+### "I like building games and want to leave my mark on the world through the things I create."
 
 <br>
 
