@@ -1,19 +1,26 @@
-<img align="right" width="180" alt="Vüsal Aliyev" src="https://github.com/user-attachments/assets/006aca3f-ecab-453f-aeeb-b74ad8099859" />
-
-<div align="center">
+<table>
+  <tr>
+    <td width="72%" align="center" valign="middle">
 
 <img src="./assets/profile-header.svg" width="620" alt="VÜSAL ALİYEV — I like building games and want to leave my mark on the world through the things I create." />
 
-<br> <br> <br>
+<br><br>
 
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-</div>
+    </td>
+    <td width="28%" align="center" valign="middle">
+      <img src="https://github.com/user-attachments/assets/006aca3f-ecab-453f-aeeb-b74ad8099859" width="220" alt="Vüsal Aliyev" />
+    </td>
+  </tr>
+</table>
 
-<br><br><br>
+<br><br>
+
+---
 
 ---
 
