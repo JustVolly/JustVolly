@@ -2,9 +2,7 @@
 
 <div align="center">
 
-### VÜSAL ALİYEV
-
-### "I like building games and want to leave my mark on the world through the things I create."
+<img src="./assets/profile-header.svg" width="620" alt="VÜSAL ALİYEV — I like building games and want to leave my mark on the world through the things I create." />
 
 <br>
 
