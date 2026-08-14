@@ -1,16 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="680" height="120" viewBox="0 0 680 120" role="img" aria-label="Vüsal Aliyev — I like building games and want to leave my mark on the world through the things I create.">
   <style>
     .name {
-      font-family: Georgia, 'Times New Roman', serif;
+      font-family: 'Trebuchet MS', 'Segoe UI', Arial, sans-serif;
       font-size: 40px;
-      font-weight: 700;
-      letter-spacing: 2.5px;
+      font-weight: 800;
+      letter-spacing: 3px;
       fill: #1f2328;
     }
     .tagline {
-      font-family: Georgia, 'Times New Roman', serif;
-      font-size: 17px;
+      font-family: 'Segoe UI', Arial, sans-serif;
+      font-size: 16px;
       font-style: italic;
+      font-weight: 400;
+      letter-spacing: 0.2px;
       fill: #59636e;
     }
     @media (prefers-color-scheme: dark) {
