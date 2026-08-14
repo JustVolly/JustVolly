@@ -61,18 +61,6 @@ The goal is to make it possible to understand the project quickly from the resul
 * Technical challenges
 * Iteration and final result
 
-#### Gameplay Screenshots
-
-<p align="center">
-  <img src="./assets/steple-chase-1.jpg" width="49%">
-  <img src="./assets/steple-chase-2.jpg" width="49%">
-</p>
-
-<p align="center">
-  <img src="./assets/steple-chase-3.jpg" width="49%">
-  <img src="./assets/steple-chase-4.jpg" width="49%">
-</p>
-
 ---
 
 ## What I'm Building Around
