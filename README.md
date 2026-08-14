@@ -1,6 +1,8 @@
 <img width="720" height="720" alt="IMG_20241022_131618_890" src="https://github.com/user-attachments/assets/006aca3f-ecab-453f-aeeb-b74ad8099859" />
 <div align="center">
-
+<p align="right">
+  <img src=""https://github.com/user-attachments/assets/006aca3f-ecab-453f-aeeb-b74ad8099859" width="38%">
+</p>
 # VÜSAL ALİYEV
 
 ### Building games and interactive systems.
