@@ -25,9 +25,6 @@
 <a href="https://github.com/JustVolly/Corefire">
   <img src="https://img.shields.io/badge/Corefire-181717?style=for-the-badge&logo=github&logoColor=white" alt="Corefire" />
 </a>
-<a href="https://github.com/JustVolly/Winsome-Stories">
-  <img src="https://img.shields.io/badge/Winsome_Stories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Winsome Stories" />
-</a>
 
 </div>
 
