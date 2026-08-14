@@ -1,11 +1,12 @@
+<div align="center">
+
 <img
-  align="right"
-  width="240"
+  width="220"
   alt="Vüsal Aliyev"
   src="https://github.com/user-attachments/assets/006aca3f-ecab-453f-aeeb-b74ad8099859"
 />
 
-<div align="center">
+<br><br>
 
 <img
   src="./assets/profile-header.svg"
@@ -30,8 +31,7 @@
 
 </div>
 
-<br clear="right">
-<br>
+<br><br>
 
 ---
 
