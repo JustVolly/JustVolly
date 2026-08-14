@@ -2,7 +2,7 @@
 
 # VÜSAL ALİYEV
 
-### Building interactive worlds, systems, and experiences.
+### Building games and interactive systems.
 
 <br>
 
@@ -21,28 +21,18 @@
 
 **Private project**
 
-A project I am preparing for a full portfolio presentation.
+A game project currently in development.
 
-The final showcase will focus on the parts that matter most when reviewing the work:
-
-* Gameplay footage
-* Systems I designed and implemented
-* Technical decisions
-* Selected source-code breakdowns
-* Problems encountered and how I solved them
-* Debugging and performance notes
-* Final results and lessons learned
-
-#### Gameplay Screenshots
+#### Screenshots
 
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/f82adbcb-47b5-46fd-b48c-0d5a8974156b"><img src="https://github.com/user-attachments/assets/f82adbcb-47b5-46fd-b48c-0d5a8974156b" width="49%" alt="Story of Ellen gameplay screenshot 1"></a>
-  <a href="https://github.com/user-attachments/assets/37213dc3-b0fd-499b-b5ef-8f18477a5a27"><img src="https://github.com/user-attachments/assets/37213dc3-b0fd-499b-b5ef-8f18477a5a27" width="49%" alt="Story of Ellen gameplay screenshot 2"></a>
+  <a href="https://github.com/user-attachments/assets/f82adbcb-47b5-46fd-b48c-0d5a8974156b"><img src="https://github.com/user-attachments/assets/f82adbcb-47b5-46fd-b48c-0d5a8974156b" width="49%" alt="Story of Ellen screenshot 1"></a>
+  <a href="https://github.com/user-attachments/assets/37213dc3-b0fd-499b-b5ef-8f18477a5a27"><img src="https://github.com/user-attachments/assets/37213dc3-b0fd-499b-b5ef-8f18477a5a27" width="49%" alt="Story of Ellen screenshot 2"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/f74c0ebf-2ea2-47fd-a6e8-38917408417b"><img src="https://github.com/user-attachments/assets/f74c0ebf-2ea2-47fd-a6e8-38917408417b" width="49%" alt="Story of Ellen gameplay screenshot 3"></a>
-  <a href="https://github.com/user-attachments/assets/9d8c7c50-cdb6-4fcd-a586-b5a00757b381"><img src="https://github.com/user-attachments/assets/9d8c7c50-cdb6-4fcd-a586-b5a00757b381" width="49%" alt="Story of Ellen gameplay screenshot 4"></a>
+  <a href="https://github.com/user-attachments/assets/f74c0ebf-2ea2-47fd-a6e8-38917408417b"><img src="https://github.com/user-attachments/assets/f74c0ebf-2ea2-47fd-a6e8-38917408417b" width="49%" alt="Story of Ellen screenshot 3"></a>
+  <a href="https://github.com/user-attachments/assets/9d8c7c50-cdb6-4fcd-a586-b5a00757b381"><img src="https://github.com/user-attachments/assets/9d8c7c50-cdb6-4fcd-a586-b5a00757b381" width="49%" alt="Story of Ellen screenshot 4"></a>
 </p>
 
 ---
@@ -51,99 +41,22 @@ The final showcase will focus on the parts that matter most when reviewing the w
 
 **Private project**
 
-This project will be presented as a focused case study rather than only a repository.
-
-The goal is to make it possible to understand the project quickly from the result, then go deeper into the implementation.
-
-* Gameplay demonstration
-* My contribution
-* Core mechanics
-* Architecture and systems
-* Selected implementation details
-* Technical challenges
-* Iteration and final result
-
----
-
-## What I'm Building Around
-
-```text
-Unreal Engine
-C++
-Gameplay Systems
-World Interaction
-AI & Behaviour
-Tools
-Debugging
-Profiling
-Performance
-```
-
-I prefer projects where the result can be **seen immediately**, but where opening the implementation reveals another level of depth.
-
----
-
-## How I Present My Work
-
-For every project that reaches this profile, I want the review path to stay simple:
-
-**Gameplay → Problem → My contribution → Technical breakdown → Source → Result**
-
-That means:
-
-* show the result before asking someone to read code
-* explain exactly what I personally worked on
-* keep technical decisions understandable
-* show relevant C++ instead of dumping an entire codebase
-* include debugging and profiling where they matter
-* document trade-offs instead of pretending every decision was perfect
-* keep the portfolio selective rather than filling it with unfinished experiments
+A game project focused on gameplay and implementation.
 
 ---
 
 ## Current Focus
 
-I'm currently expanding my portfolio through focused Unreal Engine projects that demonstrate:
-
-**01 — Gameplay Systems**
-
-Reusable systems built around clear ownership, interaction and player-facing behaviour.
-
-**02 — AI Encounters**
-
-Perception, decision-making, navigation, state changes and readable debugging.
-
-**03 — Unreal Tools**
-
-Tools that improve iteration, workflow or development inside Unreal Engine.
-
-**04 — Technical Polish**
-
-Profiling, debugging, maintainability and performance-conscious implementation.
-
----
-
-## Portfolio Standard
-
-A project earns a place here when it has:
-
-* a clear purpose
-* a visible result
-* meaningful technical ownership
-* focused scope
-* readable implementation
-* strong presentation
-* gameplay media
-* documented decisions
-* something worth discussing in a technical interview
+- Unreal Engine
+- C++
+- Gameplay systems
+- AI and behaviour
+- Tools
+- Debugging and performance
 
 ---
 
 <div align="center">
-
-### Build it. Show it. Explain it.
-
-<br>
 
 **VÜSAL ALİYEV**
 
