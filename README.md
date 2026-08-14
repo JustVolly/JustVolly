@@ -33,15 +33,17 @@ The final showcase will focus on the parts that matter most when reviewing the w
 * Debugging and performance notes
 * Final results and lessons learned
 
-<!--
-Later:
-Add a wide Story of Ellen gameplay GIF or screenshot here.
+#### Gameplay Screenshots
 
-Example:
 <p align="center">
-  <img src="./assets/story-of-ellen.gif" width="900">
+  <a href="https://github.com/user-attachments/assets/f82adbcb-47b5-46fd-b48c-0d5a8974156b"><img src="https://github.com/user-attachments/assets/f82adbcb-47b5-46fd-b48c-0d5a8974156b" width="49%" alt="Story of Ellen gameplay screenshot 1"></a>
+  <a href="https://github.com/user-attachments/assets/37213dc3-b0fd-499b-b5ef-8f18477a5a27"><img src="https://github.com/user-attachments/assets/37213dc3-b0fd-499b-b5ef-8f18477a5a27" width="49%" alt="Story of Ellen gameplay screenshot 2"></a>
 </p>
--->
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/f74c0ebf-2ea2-47fd-a6e8-38917408417b"><img src="https://github.com/user-attachments/assets/f74c0ebf-2ea2-47fd-a6e8-38917408417b" width="49%" alt="Story of Ellen gameplay screenshot 3"></a>
+  <a href="https://github.com/user-attachments/assets/9d8c7c50-cdb6-4fcd-a586-b5a00757b381"><img src="https://github.com/user-attachments/assets/9d8c7c50-cdb6-4fcd-a586-b5a00757b381" width="49%" alt="Story of Ellen gameplay screenshot 4"></a>
+</p>
 
 ---
 
@@ -60,18 +62,6 @@ The goal is to make it possible to understand the project quickly from the resul
 * Selected implementation details
 * Technical challenges
 * Iteration and final result
-
-#### Gameplay Screenshots
-
-<p align="center">
-  <a href="https://github.com/user-attachments/assets/f82adbcb-47b5-46fd-b48c-0d5a8974156b"><img src="https://github.com/user-attachments/assets/f82adbcb-47b5-46fd-b48c-0d5a8974156b" width="49%" alt="Steple Chase gameplay screenshot 1"></a>
-  <a href="https://github.com/user-attachments/assets/37213dc3-b0fd-499b-b5ef-8f18477a5a27"><img src="https://github.com/user-attachments/assets/37213dc3-b0fd-499b-b5ef-8f18477a5a27" width="49%" alt="Steple Chase gameplay screenshot 2"></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/user-attachments/assets/f74c0ebf-2ea2-47fd-a6e8-38917408417b"><img src="https://github.com/user-attachments/assets/f74c0ebf-2ea2-47fd-a6e8-38917408417b" width="49%" alt="Steple Chase gameplay screenshot 3"></a>
-  <a href="https://github.com/user-attachments/assets/9d8c7c50-cdb6-4fcd-a586-b5a00757b381"><img src="https://github.com/user-attachments/assets/9d8c7c50-cdb6-4fcd-a586-b5a00757b381" width="49%" alt="Steple Chase gameplay screenshot 4"></a>
-</p>
 
 ---
 
