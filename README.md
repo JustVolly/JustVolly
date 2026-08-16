@@ -2,7 +2,7 @@
 
 <img
   width="220"
-  alt="Vüsal Aliyev"
+  alt="Vusal Alıyev"
   src="https://github.com/user-attachments/assets/006aca3f-ecab-453f-aeeb-b74ad8099859"
 />
 
