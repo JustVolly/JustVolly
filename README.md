@@ -11,7 +11,7 @@
 <img
   src="./assets/profile-header.svg"
   width="600"
-  alt="VÜSAL ALİYEV — I like building games and want to leave my mark on the world through the things I create."
+  alt="VUSAL ALIYEV — I like building games and want to leave my mark on the world through the things I create."
 />
 
 <br>
