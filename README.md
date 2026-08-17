@@ -36,8 +36,6 @@
 
 ### Story of Ellen
 
-**Private Project**
-
 A game project currently in development.
 
 #### Screenshots
