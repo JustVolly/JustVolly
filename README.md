@@ -78,7 +78,7 @@
 
 ### Steeple Chase
 
-A game project focused on gameplay and implementation.
+**Steeple Chase** is a **prototype 3D obstacle-platforming game** developed with **Unity and C#**. The game challenges the player to navigate obstacle-filled environments using responsive character movement while avoiding moving hazards and traps. The project focuses on character control, camera behaviour, physics-based gameplay, moving platforms, and reusable obstacle systems.
 
 #### Screenshots
 
