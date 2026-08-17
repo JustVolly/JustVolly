@@ -36,7 +36,7 @@
 
 ### Story of Ellen
 
-A game project currently in development.
+**Story of Ellen** is a **prototype 2D adventure/platformer** developed with **Unity and C#**. The game follows Ellen as she explores mysterious environments, overcomes obstacles, and progresses through a story-driven world. The project focuses on smooth gameplay, animation, level design, and audio.
 
 #### Screenshots
 
