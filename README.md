@@ -83,7 +83,7 @@ A game project currently in development.
 
 ---
 
-### Steple Chase
+### Steeple Chase
 
 A game project focused on gameplay and implementation.
 
