@@ -87,6 +87,18 @@ A game project currently in development.
 
 A game project focused on gameplay and implementation.
 
+#### Screenshots
+
+<p align="center">
+  <a href="./assets/steeple-chase-collage.webp">
+    <img
+      src="./assets/steeple-chase-collage.webp"
+      width="100%"
+      alt="Steeple Chase gameplay — four screenshot collage"
+    />
+  </a>
+</p>
+
 ---
 
 ## Current Focus
