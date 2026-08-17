@@ -78,19 +78,16 @@ A game project currently in development.
 
 ### Steple Chase
 
-**Private Project**
-
 A game project focused on gameplay and implementation.
 
 ---
 
 ## Current Focus
 
-- Unreal Engine
-- Unity
-- C#
+- Unreal Engine, Unity
+- C#,Blueprint,C++
 - Gameplay Systems
 - AI & Behaviour
 - Tools
 - Debugging
-- Performance
+- Performance,Optimization 
