@@ -1,14 +1,3 @@
-<img width="2048" height="955" alt="steeple-chase-1" src="https://github.com/user-attachments/assets/6f9ec0d3-68ae-431e-8cd2-d0770652c70c" />
-<img width="2048" height="955" alt="steeple-chase-4" src="https://github.com/user-attachments/assets/d0803205-e981-428e-95d0-b8304363854a" />
-<img width="2048" height="955" alt="steeple-chase-3" src="https://github.com/user-attachments/assets/c69568af-c2d9-4b5c-ab92-a4607310d8ea" />
-<img width="2048" height="955" alt="steeple-chase-2" src="https://github.com/user-attachments/assets/7d13c045-fa0d-49c9-8e20-420f49f2a790" />
-
-
-
-
-
-
-
 <div align="center">
 
 <img
@@ -94,11 +83,35 @@ A game project focused on gameplay and implementation.
 #### Screenshots
 
 <p align="center">
-  <a href="./assets/steeple-chase-collage.webp">
+  <a href="https://github.com/user-attachments/assets/6f9ec0d3-68ae-431e-8cd2-d0770652c70c">
     <img
-      src="./assets/steeple-chase-collage.webp"
-      width="100%"
-      alt="Steeple Chase gameplay — four screenshot collage"
+      src="https://github.com/user-attachments/assets/6f9ec0d3-68ae-431e-8cd2-d0770652c70c"
+      width="48%"
+      alt="Steeple Chase screenshot 1"
+    />
+  </a>
+  <a href="https://github.com/user-attachments/assets/7d13c045-fa0d-49c9-8e20-420f49f2a790">
+    <img
+      src="https://github.com/user-attachments/assets/7d13c045-fa0d-49c9-8e20-420f49f2a790"
+      width="48%"
+      alt="Steeple Chase screenshot 2"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/c69568af-c2d9-4b5c-ab92-a4607310d8ea">
+    <img
+      src="https://github.com/user-attachments/assets/c69568af-c2d9-4b5c-ab92-a4607310d8ea"
+      width="48%"
+      alt="Steeple Chase screenshot 3"
+    />
+  </a>
+  <a href="https://github.com/user-attachments/assets/d0803205-e981-428e-95d0-b8304363854a">
+    <img
+      src="https://github.com/user-attachments/assets/d0803205-e981-428e-95d0-b8304363854a"
+      width="48%"
+      alt="Steeple Chase screenshot 4"
     />
   </a>
 </p>
