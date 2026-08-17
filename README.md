@@ -1,10 +1,12 @@
+
 <div align="center">
 
-<img
-  width="220"
-  alt="Vusal Alıyev"
-  src="https://github.com/user-attachments/assets/006aca3f-ecab-453f-aeeb-b74ad8099859"
+<img width="2172" 
+     height="724" 
+     alt="VUSAL ALIYEV" 
+     src="https://github.com/user-attachments/assets/3434bb8f-8106-4ebb-a9b2-88ef3b4f08b5"
 />
+
 
 <br><br>
 
